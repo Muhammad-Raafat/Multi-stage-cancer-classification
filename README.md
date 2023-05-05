@@ -8,9 +8,7 @@ and segmentation.
 
 ## Project Objectives:
 1- Apply different Image preprocessing techniques
-2- Apply Image Classification to classify each image whether it is a brain scan
-or a Breast scan and then determining if the image scan is normal or if it
-has an infection (Tumor)
+2- Apply Image Classification to classify each image whether it is a brain scan or a Breast scan and then determining if the image scan is normal or if it has an infection (Tumor)
 3- Apply Image segmentation to determine exactly the infected area location.
 
 The dataset can be found [https://drive.google.com/file/d/1VRG99lvzfhdC-YA5dfdj_a9IyMCl5WHH/view]
