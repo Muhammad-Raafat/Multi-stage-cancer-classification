@@ -1,4 +1,4 @@
-# Multi-stage-cancer-classification
+# Multi-Stage-Cancer-Classification
 Identification of different Cancer diseases is to determine first the type of scan
 (breast or brain in our case) and then determining whether the scan is normal or
 has a tumor and the type of tumor if exists, Disease detection is done with
